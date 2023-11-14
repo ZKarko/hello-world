@@ -24,7 +24,7 @@ and I think I should mentioned at least three of them, so let me add more:
 In all seriousness, I always try my best to make the outcome satisfying,
 not only for me, but for everyone who will be working with me.
 I care about the details and try to make my knowledge usefull,
-and to highlight my point <mark>I am diligent and committed to delivering results</mark> .
+and to highlight my point ==I am diligent and committed to delivering results== .
 
 ---
 **Thank you very much for your attention :star: I hope I didn't put you to sleep**
